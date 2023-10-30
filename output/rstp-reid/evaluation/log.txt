@@ -1,0 +1,28 @@
+{"epoch": 0, "test_r1": 66.9000015258789, "test_r5": 86.5, "test_r10": 91.3499984741211, "test_r_mean": 81.58333333333333, "test_mAP": 52.30879211425781}
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
+best epoch: 0 / 30
+
+
